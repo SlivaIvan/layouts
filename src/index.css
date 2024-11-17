@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+
+li {
+  list-style: none;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.material-icons {
+  color: gray;
+  text-align: right;
+  display: block;
+  margin-left: auto;
+  user-select: none;
+  font-size: 40px;
+}
